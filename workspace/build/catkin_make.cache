@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/viswa/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/viswa/workspace/install -G Unix Makefiles
